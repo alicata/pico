@@ -1,10 +1,12 @@
 # Pico
 
-# 4. Objectives
+# 4. Objectives - Making Pico Jump
 - distinguish between pixel coordinates, and block coordinates (block map).
 - make a wall block
 - check that Pico is entering the wall coordinates and if so stop Pico.
-- add gravity force applied to Pico inside the foor loop.
+- add gravity force applied to Pico.
+- stop Pico if reaches the floor blocks
+- make Pico jump if spacebar key is pressed.
 
 # 4. Assigments
 * a. Change variable name 'pico_jump' to 'pico_is_jumping'.
